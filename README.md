@@ -82,7 +82,8 @@ docker run --detach \
 crazyleojay/nginx_ui:latest
 ```
 
-
+账号密码：
+admin/admin
 
 ## AC QQ Group
 群号:933481759
